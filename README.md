@@ -27,7 +27,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/Bazza-08/summary-order.git)
-- Live Site URL: [Github](https://github.com/Bazza-08/summary-order.git)
+- Live Site URL: [Netlify](https://summary-order010.netlify.app/)
 
 ## My process
 
